@@ -1,0 +1,37 @@
+Comment,Designator,Footprint,LCSC,Quantity
+SS34,D4,D_SMA,,1
+SS34,D3,D_SMA,,1
+SS34,D2,D_SMA,,1
+LED,D1,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,1
+RESET,TP11,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+Programming,,PinSocket_1x03_P2.00mm_Vertical,,0
+I2C,,PinSocket_1x03_P2.00mm_Vertical,,0
+Control Pins,,PinSocket_1x04_P2.00mm_Vertical,,0
+UART & Power,,PinSocket_1x04_P2.00mm_Vertical,,0
+USB_C_Receptacle_USB2.0_16P,J7,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,,1
+330,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+CH340C,U3,SOIC-16_3.9x9.9mm_P1.27mm,,1
+AMS1117-3.3,U2,SOT-223-3_TabPin2,,1
+SRV05-4,U1,SOT-23-6_Handsoldering,,1
++3.3V,TP14,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+SWDIO,TP13,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+SWCLK,TP12,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+GND,TP10,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+GND,TP9,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
++3.3V,TP8,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+SDA,TP7,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+SCL,TP6,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+TX,TP5,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+RX,TP4,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+SB_LED,TP3,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+BOOT_MODE,TP2,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+SYS_WAKE,TP1,TestPoint_THTPad_D2.0mm_Drill1.0mm,,1
+5.1K,R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+5.1K,R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+Conn_02x05_Odd_Even,J6,PinSocket_2x05_P2.54mm_Vertical-idc,,1
+miDAS-Link,J1,IDC-Header_2x10_P2.54mm_Vertical,,1
+100nF,C5,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+100nF,C4,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+10uF,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+10uF,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+100nF,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1

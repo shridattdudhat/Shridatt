@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,81.0,-107.0,-90.0,top
+C2,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,79.0,-107.0,-90.0,top
+C3,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,91.0,-107.0,-90.0,top
+C4,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,93.0,-107.0,-90.0,top
+C5,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,65.0,-98.0,-90.0,top
+D1,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,69.75,-90.0,0.0,top
+D2,SS34,D_SMA,65.0,-106.5,-90.0,top
+D3,SS34,D_SMA,86.0,-95.0,0.0,top
+D4,SS34,D_SMA,86.0,-99.0,0.0,top
+J1,miDAS-Link,IDC-Header_2x10_P2.54mm_Vertical,55.5175,-100.0,0.0,top
+J2,UART & Power,PinSocket_1x04_P2.00mm_Vertical,101.0,-100.0,0.0,top
+J3,I2C,PinSocket_1x03_P2.00mm_Vertical,128.0,-100.0,0.0,top
+J4,Programming,PinSocket_1x03_P2.00mm_Vertical,114.5,-113.5,-90.0,top
+J5,Control Pins,PinSocket_1x04_P2.00mm_Vertical,114.5,-86.5,-90.0,top
+J6,Conn_02x05_Odd_Even,PinSocket_2x05_P2.54mm_Vertical-idc,114.53,-99.98,0.0,top
+J7,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,71.5,-114.815,0.0,top
+R1,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,65.0,-114.0,90.0,top
+R2,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,78.0,-114.0,90.0,top
+R3,330,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,66.0,-89.75,-90.0,top
+U1,SRV05-4,SOT-23-6_Handsoldering,71.0,-106.5,90.0,top
+U2,AMS1117-3.3,SOT-223-3_TabPin2,86.0,-107.0,-90.0,top
+U3,CH340C,SOIC-16_3.9x9.9mm_P1.27mm,71.5,-98.0,90.0,top
