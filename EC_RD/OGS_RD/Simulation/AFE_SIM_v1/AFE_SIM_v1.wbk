@@ -1,0 +1,79 @@
+{
+  "last_sch_text_sim_command": "",
+  "tabs": [
+    {
+      "analysis": "OP",
+      "commands": [
+        ".op",
+        ".kicad adjustpaths",
+        ".save all",
+        ".probe alli",
+        ".probe allp"
+      ]
+    },
+    {
+      "analysis": "DC",
+      "commands": [
+        ".dc I1 0 4u 100n",
+        ".kicad adjustpaths",
+        ".save all",
+        ".probe alli",
+        ".probe allp"
+      ],
+      "dottedSecondary": true,
+      "margins": {
+        "bottom": 45,
+        "left": 70,
+        "right": 70,
+        "top": 30
+      },
+      "measurements": [],
+      "showGrid": true,
+      "traces": [
+        {
+          "color": "rgb(228, 26, 28)",
+          "signal": "V(Net-_C3-Pad2_)",
+          "trace_type": 2049
+        },
+        {
+          "color": "rgb(55, 126, 184)",
+          "signal": "V(Net-_I1-Pad1_)",
+          "trace_type": 2049
+        }
+      ]
+    },
+    {
+      "analysis": "DC",
+      "commands": [
+        ".dc I2 0 4u 100n",
+        ".kicad adjustpaths",
+        ".save all",
+        ".probe alli",
+        ".probe allp"
+      ],
+      "dottedSecondary": true,
+      "margins": {
+        "bottom": 45,
+        "left": 70,
+        "right": 70,
+        "top": 30
+      },
+      "measurements": [],
+      "showGrid": true,
+      "traces": [
+        {
+          "color": "rgb(55, 126, 184)",
+          "signal": "V(Net-_C5-Pad2_)",
+          "trace_type": 2049
+        },
+        {
+          "color": "rgb(228, 26, 28)",
+          "signal": "V(Net-_I2-Pad2_)",
+          "trace_type": 2049
+        }
+      ]
+    }
+  ],
+  "user_defined_signals": [],
+  "version": 6
+}

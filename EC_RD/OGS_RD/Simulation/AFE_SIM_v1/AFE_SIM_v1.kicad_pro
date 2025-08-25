@@ -481,7 +481,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OZ_AFE_1.kicad_pro",
+    "filename": "AFE_SIM_v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -520,7 +520,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "OZ_AFE_1.step",
+      "step": "AFE_SIM_v1.step",
       "svg": "",
       "vrml": ""
     },
@@ -604,7 +604,7 @@
       "dashed_lines_dash_length_ratio": 12.0,
       "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
-      "default_text_size": 31.496062992125985,
+      "default_text_size": 50.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
@@ -627,6 +627,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": "AFE_SIM_v1.wbk"
+    },
     "page_layout_descr_file": "",
     "plot_directory": "./",
     "space_save_all_events": true,
